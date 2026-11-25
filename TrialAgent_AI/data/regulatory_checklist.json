@@ -1,0 +1,162 @@
+{
+  "name": "TrialAgent research checklist",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "RG-01",
+      "category": "Objectives and endpoints",
+      "requirement": "Document objectives and endpoints with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "objective",
+        "primary endpoint"
+      ]
+    },
+    {
+      "id": "RG-02",
+      "category": "Study design",
+      "requirement": "Document study design with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "random|non.random",
+        "blind|open.label"
+      ]
+    },
+    {
+      "id": "RG-03",
+      "category": "Sponsor and investigator responsibilities",
+      "requirement": "Document sponsor and investigator responsibilities with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "sponsor",
+        "investigator"
+      ]
+    },
+    {
+      "id": "RG-04",
+      "category": "Participant eligibility",
+      "requirement": "Document participant eligibility with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "inclusion",
+        "exclusion"
+      ]
+    },
+    {
+      "id": "RG-05",
+      "category": "Informed consent",
+      "requirement": "Document informed consent with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "informed consent",
+        "consent.*(obtain|sign|before)"
+      ]
+    },
+    {
+      "id": "RG-06",
+      "category": "Safety monitoring",
+      "requirement": "Document safety monitoring with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "safety monitor",
+        "stopping|stop.*rule"
+      ]
+    },
+    {
+      "id": "RG-07",
+      "category": "Adverse event reporting",
+      "requirement": "Document adverse event reporting with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "adverse event",
+        "serious adverse|SAE"
+      ]
+    },
+    {
+      "id": "RG-08",
+      "category": "Statistical considerations",
+      "requirement": "Document statistical considerations with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "statistical|analysis plan",
+        "power|sample size.*(calcul|justif)"
+      ]
+    },
+    {
+      "id": "RG-09",
+      "category": "Data management",
+      "requirement": "Document data management with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "data management",
+        "confidential|privacy"
+      ]
+    },
+    {
+      "id": "RG-10",
+      "category": "Monitoring procedures",
+      "requirement": "Document monitoring procedures with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "monitoring visit|site monitoring",
+        "source data|verification"
+      ]
+    },
+    {
+      "id": "RG-11",
+      "category": "Protocol amendments",
+      "requirement": "Document protocol amendments with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "amendment",
+        "amendment.*(approv|review)"
+      ]
+    },
+    {
+      "id": "RG-12",
+      "category": "Ethics review",
+      "requirement": "Document ethics review with operational detail.",
+      "reference": "ICH E6(R3), Principles and Annex 1 \u2014 topic-level research mapping; no section-level claim",
+      "version": "Final, 6 January 2025",
+      "source": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+      "guidance": "Keyword evidence is only a screening signal. Verify applicability and adequacy manually.",
+      "patterns": [
+        "ethics committee|institutional review|IRB",
+        "ethics.*approv|IRB.*approv"
+      ]
+    }
+  ]
+}

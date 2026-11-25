@@ -1,0 +1,28 @@
+SYNTHETIC DEMONSTRATION DATA — NOT A REAL CLINICAL TRIAL
+Study title: TEAL-01 Blood Pressure Feasibility Study
+Sponsor: Synthetic Research University
+Phase II
+Objective: Assess reduction in blood pressure at week 12.
+Study design: Randomized double-blind placebo-controlled parallel study.
+Population: Adults with hypertension.
+Sample size: 120 participants.
+Duration: 12 weeks treatment and 4 weeks follow-up.
+Start date: 2027-04-01
+End date: 2027-03-01
+Inclusion: Age 18 to 65 years.
+Inclusion: Adults with hypertension and adequate organ function.
+Inclusion: Age 18 to 65 years.
+Exclusion: Hypertension.
+Exclusion: Pregnant participants.
+Treatment arm A: Synthetic compound 5 mg once daily for 12 weeks.
+Treatment arm B: Matching placebo once daily for 12 weeks.
+Primary endpoint: Change in systolic blood pressure at week 12.
+Secondary endpoint: Change in quality of life at week 12.
+Safety monitoring: Weekly symptom review and laboratory monitoring.
+Adverse event reporting: Investigators report adverse events in case report forms.
+Statistical analysis: Intention-to-treat comparison of mean change.
+Statistical appendix: Enroll 150 participants.
+Primary endpoint: Change in diastolic blood pressure at week 8.
+Informed consent: Signed consent obtained before study procedures.
+See section 14 for stopping criteria.
+Deliberate gaps: committee membership, serious event timelines, ethics approval, data management and amendment procedures are not supplied.
